@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Jasser! <img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif]"><br>🔭 I’m currently working on [eBio](https://ebio-frontend.onrender.com/)<br>🌱 I’m currently learning **.NET Core**<br>📫 How to reach me **jasser.atouani@etudiant-fst.utm.tn**
+Hi 👋, I'm Jasser! <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif"><br>🔭 I’m currently working on [eBio](https://ebio-frontend.onrender.com/)<br>🌱 I’m currently learning **.NET Core**<br>📫 How to reach me **jasser.atouani@etudiant-fst.utm.tn**
 
 
 ## 🌐 Socials:
